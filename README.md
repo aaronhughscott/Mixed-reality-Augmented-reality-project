@@ -8,4 +8,4 @@ user has health ui, hunger ui, and thirst ui
 
 all ui will deplete
 
-user will have to wander around to find food, water, and health to stay alive
+user will have to wonder around to find food, water, and health to stay alive
