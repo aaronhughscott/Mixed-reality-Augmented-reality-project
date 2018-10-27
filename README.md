@@ -1,8 +1,8 @@
 # Mixed-reality-Augmented-reality-project
 senoir project created in c# and unity
 
-Project is a survival game that, first, has the user scan the environment around them,
-then implements real-time environment and allows the user to wonder freely around their home while they are in another world.
+Project is a survival game that, first, has the user scan the environment around them. It
+then implements a real-time environment and allows the user to wonder freely around their home while they are in another world.
 
 User has health ui, hunger ui, and thirst ui.
 
